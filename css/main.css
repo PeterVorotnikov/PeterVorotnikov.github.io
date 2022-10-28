@@ -15,8 +15,8 @@ img {
     color: white;
 }
 
-a:focus {
-    outline: none;
+:focus{
+    outline: dashed 2px white;
 }
 
 .wrapper {
